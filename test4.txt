@@ -1,6 +1,0 @@
-program
-{
- int j = 6, k, i;
- k = ( i + "123" ) * 2; 
- write ("ERROR not detected");
-} 
